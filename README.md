@@ -4,12 +4,12 @@
 This repository contains my solutions and projects for a machine learning course. The course covers various topics and assignments, each of which is organized into separate folders.
 
 ## Table of Contents
-  1. HW1 - Linear Regression
-  2. HW2 - Decision Trees
-  3. HW3 - MAP Classifier
-  4. HW4 - Logistic Regression, Bayes, and EM
-  5. HW5 - PAC Learning
-  6. HW6 - Clustering - k-means
+  1. [HW1 - Linear Regression](hw1-Linear-Regression)
+  2. [HW2 - Decision Trees](hw2-decision-trees)
+  3. [HW3 - MAP Classifier](hw3-map-classifier)
+  4. [HW4 - Logistic Regression, Bayes, and EM](hw4-logistic-regression-bayes-and-em)
+  5. [HW5 - PAC Learning](hw5-pac-learning)
+  6. [HW6 - Clustering - k-means](hw6-clustering-k-means)
 
 ## HW1 - Linear Regression
 ### Files
