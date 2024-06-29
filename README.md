@@ -10,6 +10,7 @@ This repository contains my solutions and projects for a machine learning course
   4. [HW4 - Logistic Regression, Bayes, and EM](hw4-logistic-regression-bayes-and-em)
   5. [HW5 - PAC Learning](hw5-pac-learning)
   6. [HW6 - Clustering - k-means](hw6-clustering-k-means)
+  7. [How to Run the Code](how-to-run-the-code)
 
 ## HW1 - Linear Regression
 ### Files
@@ -91,3 +92,33 @@ The sixth and final homework assignment focuses on Clustering with k-means. It i
   - Implementing k-means and k-means++ algorithms.
   - Running each algorithm 10 times.
   - Visualizing the performance differences.
+## How to Run the Code
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/machine-learning-course.git
+   ```
+2. **Open the appropriate Jupyter notebooks for each assignment:**
+    - Homework 1:
+    ```bash
+    jupyter notebook hw1.ipynb
+    ```
+    - Homework 2:
+    ```bash
+    jupyter notebook hw2.ipynb
+    ```
+    - Homework 3:
+    ```bash
+    jupyter notebook hw3.ipynb
+    ```
+    - Homework 4:
+    ```bash
+    jupyter notebook hw4.ipynb
+    ```
+    - Homework 5:
+    ```bash
+    jupyter notebook Ex5 PAC-Learnable.ipynb
+    ```
+    - Homework 6:
+    ```bash
+    jupyter notebook hw6.ipynb
+    ```
