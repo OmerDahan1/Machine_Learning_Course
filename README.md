@@ -48,6 +48,7 @@ Homework 3 is centered around the MAP Classifier. It comprises:
   - Maximum Likelihood Estimation
   - Normal Naive Bayes Classifier
   - Full Bayes Classifier
+    
 ## HW4 - Logistic Regression, Bayes, and EM
 ### Files
 hw4.py
@@ -64,6 +65,7 @@ The fourth assignment delves into Logistic Regression, Bayes, and EM. It encompa
   - GMM (Gaussian Mixture Model)
   - Naive Bayes
   - Model Evaluation
+    
 ## HW5 - PAC Learning
 ### Files
 HW5.pdf
@@ -83,6 +85,7 @@ Assignment 5 is a comprehensive exercise on PAC learning, VC dimension, kernels,
   - Finding minimum and maximum points under constraints using Lagrange multipliers.
   - Notebook Exercise
   - Practical implementation and analysis based on the notebook exercises.
+    
 ## HW6 - Clustering - k-means
 ### Files
 hw6.py
@@ -92,6 +95,7 @@ The sixth and final homework assignment focuses on Clustering with k-means. It i
   - Implementing k-means and k-means++ algorithms.
   - Running each algorithm 10 times.
   - Visualizing the performance differences.
+    
 ## How to Run the Code
 1. **Clone the repository:**
    ```bash
